@@ -1,11 +1,26 @@
-### Hi there 👋
+### Hi, Nice to meet you 👋
 
-<!--
-**Karlos97chss/Karlos97chss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇸/🇬🇧 Welcome to my GitHub! Here you will find a portfolio of my skills and projects in the technology field. With knowledge in various programming languages such as JavaScript, HTML, CSS, React Native, Python, and Kotlin, along with advanced English fluency, intermediate Spanish, and beginner German, I am ready to tackle challenges and contribute to innovative solutions. Explore my repositories and discover my work! 🇺🇸/🇬🇧
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+🇧🇷 Bem-vindo ao meu GitHub! Aqui você encontrará um portfólio das minhas habilidades e projetos na área de tecnologia. Com conhecimentos em várias linguagens de programação, como JavaScript, HTML, CSS, React Native, Python e Kotlin, juntamente com fluência em inglês avançado, espanhol intermediário e alemão iniciante, estou pronto para enfrentar desafios e contribuir para soluções inovadoras. Explore meus repositórios e descubra meu trabalho! 🇧🇷
 
+🇪🇸 ¡Bienvenido a mi GitHub! Aquí encontrará un portafolio de mis habilidades y proyectos en el campo de la tecnología. Con conocimientos en varios lenguajes de programación como JavaScript, HTML, CSS, React Native, Python y Kotlin, junto con fluidez avanzada en inglés, español intermedio y alemán principiante, estoy listo para enfrentar desafíos y contribuir a soluciones innovadoras. ¡Explore mis repositorios y descubra mi trabajo! 🇪🇸
 
+🇩🇪 Willkommen auf meinem GitHub! Hier finden Sie ein Portfolio meiner Fähigkeiten und Projekte im Technologiebereich. Mit Kenntnissen in verschiedenen Programmiersprachen wie JavaScript, HTML, CSS, React Native, Python und Kotlin sowie fortgeschrittener Englischkenntnisse, mittlerem Spanisch und Anfängerdeutsch bin ich bereit, Herausforderungen anzunehmen und zu innovativen Lösungen beizutragen. Entdecken Sie meine Repositories und entdecken Sie meine Arbeit! 🇩🇪
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=karlos97chss&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=karlos97chss&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=karlos97chss&show_icons=true" />
+</picture>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karlos97chss&repo=github-readme-stats)](https://github.com/karlos97chss/github-readme-stats)
 
 🌐 Browsers
 
@@ -64,6 +79,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlos97chss&size_weight=0.5&count_weight=0.5)
 
 🏢 Office
 
