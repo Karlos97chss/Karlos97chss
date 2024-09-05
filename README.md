@@ -1,6 +1,6 @@
 ### Hi, Nice to meet you 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=My+name's+Carlos+Henrique;26+yaers;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=My+name's+Carlos+Henrique;27+yaers;)](https://git.io/typing-svg)
 
 🇺🇸/🇬🇧 Welcome to my GitHub! Here you will find a portfolio of my skills and projects in the technology field. With knowledge in various programming languages such as JavaScript, HTML, CSS, React Native, Python, and Kotlin, along with advanced English fluency, intermediate Spanish, and beginner German, I am ready to tackle challenges and contribute to innovative solutions. Explore my repositories and discover my work! 🇺🇸/🇬🇧
 
